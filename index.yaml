@@ -4,6 +4,7 @@ entries:
     - annotations:
       apiVersion: v1
       version: 0.1.0
+      appVersion: 0.1.0
       name: "Data on Kuberenetes K8ssandra Chart"
       home: https://github.com/AbhijithGanesh/dokc-helm-chart
       description: "A chart for making k8ssandra simple. You can read about how to use them here in this ."
