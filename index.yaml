@@ -1,9 +1,12 @@
 apiVersion: v1
 entries:
   dokc-chart:
-    - apiVersion: v1
+    - annotations:
+      artifacthub.io/prerelease: "false"
+      apiVersion: v1
+      appVersion: v0.1.0
       name: "Data on Kuberenetes K8ssandra Chart"
       home: https://github.com/AbhijithGanesh/dokc-helm-chart
       description: "A chart for making k8ssandra simple. You can read about how to use them here in this ."
-
+ 
 generated: "2022-02-01T16:32:21.7893764+05:30"
