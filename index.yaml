@@ -3,6 +3,6 @@ entries:
   dokc-chart:
     - apiVersion: v1
       name: "Data on Kuberenetes K8ssandra Chart"
-      appVersion: 0.1.0
+      appVersion: 1.0.0
       description: A chart for making k8ssandra simple. You can read about how to use them here in this [blog]
 generated: "2022-02-01T16:32:21.7893764+05:30"
