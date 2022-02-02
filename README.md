@@ -72,4 +72,4 @@ stargate:
  
  
  <h2> Credits </h2>
- Thanks to K8ssandra.io who's the maker of [ k8ssandra.io ](https://github.com/k8ssandra/k8ssandra/) chart, the chart was pivotal and it was an inspiration to this chart.
+ Thanks to K8ssandra.io who's the maker of [k8ssandra.io](https://github.com/k8ssandra/k8ssandra/) chart, the chart was pivotal and it was an inspiration to this chart.
