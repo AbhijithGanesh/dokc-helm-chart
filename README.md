@@ -1,4 +1,4 @@
-# DokC-K8ssandra-lightweight-helm-chart
+# DokC K8ssandra-lightweight helm-chart
 Custom K8ssandra operator for Date on Kuberenetes' how-to-dok project.
 This chart contains the kubernetes operator for cassandra as a stack, it includes:
   1.  Apache Cassandra
@@ -9,13 +9,13 @@ This chart contains the kubernetes operator for cassandra as a stack, it include
  There are provisions to enable packages like Medusa and Reaper, You can enable them by adding them to the [dependencies](https://github.com/AbhijithGanesh/dokc-helm-chart/blob/510ad7c0ffe14a056b05cc67339f5205811cfd91/Chart.yaml#L2-L21) and enable the [values](https://github.com/AbhijithGanesh/dokc-helm-chart/blob/510ad7c0ffe14a056b05cc67339f5205811cfd91/values.yaml#L180) to enable these containers
  
  
- # Installation and requirements
+ <h1> Installation and requirements </h1>
  
- ### Requirements:
+ <h3> Requirements </h3> 
+ 
   - CPU Cores = 4
   - RAM = 8128m
- 
- ### Installation
+<h3> Installation </h3>
  To Install this package:
  
  You can add it through:
