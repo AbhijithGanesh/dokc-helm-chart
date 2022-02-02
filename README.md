@@ -20,7 +20,7 @@ This chart contains the kubernetes operator for cassandra as a stack, it include
  
  You can add it through:
  
- `helm repo add dokc https://abhijithganesh.tech/dokc-helm-chart/`
+ `helm repo add dokc https://abhijithganesh.github.io/dokc-helm-chart/`
  
  This will add your package into local helm repository list.
  To verify this , run the command
