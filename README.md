@@ -71,5 +71,5 @@ stargate:
  `helm install -f <filename>.yaml <Instance Name (or) Cluster Name> dokc/dokc-chart`
  
  
- ## Credits
+ <h2> Credits </h2>
  Thanks to K8ssandra.io who's the maker of [k8ssandra\k8ssandra](https://github.com/k8ssandra/k8ssandra/) chart, the chart was pivotal and it was an inspiration to this chart.
