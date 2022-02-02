@@ -1,4 +1,4 @@
-# DokC-K8ssandra-lightweight-helm-chart
+# DokC K8ssandra-lightweight helm-chart
 Custom K8ssandra operator for Date on Kuberenetes' how-to-dok project.
 This chart contains the kubernetes operator for cassandra as a stack, it includes:
   1.  Apache Cassandra
@@ -11,7 +11,8 @@ This chart contains the kubernetes operator for cassandra as a stack, it include
  
  <h1> Installation and requirements </h1>
  
- <h3> Requirements: </h3>
+ <h3> Requirements </h3> 
+ 
   - CPU Cores = 4
   - RAM = 8128m
 <h3> Installation </h3>
