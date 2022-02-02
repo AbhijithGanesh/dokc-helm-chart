@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v2
 entries:
   dokc-chart:
       appVersion: 0.1.0
@@ -10,6 +10,8 @@ entries:
           name: dokc-k8ssandra-lightweight
       sources:
         - https://github.com/AbhijithGanesh/dokc-helm-chart
+      urls:
+        - https://abhijithganesh.github.io/dokc-helm-chart/k8ssandra-lightweight-0.1.0.tgz
       version: v0.1.0
 generated: "2022-02-01T16:32:21.7893764+05:30"
 
