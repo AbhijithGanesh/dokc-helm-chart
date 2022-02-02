@@ -14,7 +14,6 @@ This chart contains the kubernetes operator for cassandra as a stack, it include
  ### Requirements:
   - CPU Cores = 4
   - RAM = 8128m
-  - 
  
  ### Installation
  To Install this package:
@@ -65,7 +64,6 @@ stargate:
   heapMB: 256
   cpuReqMillicores: 200
   cpuLimMillicores: 1000
-  
   
 ```
  
