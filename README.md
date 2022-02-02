@@ -1,4 +1,4 @@
-# DokC-K8ssandra-lightweight-chart
+# DokC-K8ssandra-lightweight-helm-chart
 Custom K8ssandra operator for Date on Kuberenetes' how-to-dok project.
 This chart contains the kubernetes operator for cassandra as a stack, it includes:
   1.  Apache Cassandra
@@ -70,3 +70,6 @@ stargate:
  To run the cluster, execute the following command:
  `helm install -f <filename>.yaml <Instance Name (or) Cluster Name> dokc/dokc-chart`
  
+ 
+ ## Credits
+ Thanks to K8ssandra.io who's the maker of [k8ssandra\k8ssandra](https://github.com/k8ssandra/k8ssandra/) chart, the chart was pivotal and it was an inspiration to this chart.
